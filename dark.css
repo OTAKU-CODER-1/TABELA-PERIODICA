@@ -1,0 +1,133 @@
+.transparent{
+    background-color: transparent;
+}
+.color{
+    color: #fff;
+    transition: .2s;
+}
+
+.active-nao-metais{
+    filter: blur(1);
+    text-align: center;
+    color: #b3d76b;
+    font-weight: 100;
+
+    text-shadow: 0 0 10px #b3d76b,
+                 0 0 20px #b3d76b;
+}
+.active-nao-metais:hover{
+    box-shadow: 0 0 5px #b3d76b;
+}
+
+.active-metaiAlcalinos{
+    filter: blur(1);
+
+    text-align: center;
+    color: #f6ca5f;
+    font-weight: 100;
+
+    text-shadow: 0 0 10px #f6ca5f,
+                 0 0 20px #f6ca5f;
+}
+.active-metaiAlcalinos:hover{
+    box-shadow: 0 0 5px #f6ca5f;
+}
+
+
+.active-metais-alcalinos-terrosos{
+    filter: blur(1);
+
+    text-align: center;
+    color: #efe65b;
+    font-weight: 100;
+    text-shadow: 0 0 10px #efe65b,
+                 0 0 20px #efe65b;
+}
+.active-metais-alcalinos-terrosos:hover{
+    box-shadow: 0 0 5px #efe65b;
+}
+.active-metais-trans{
+    filter: blur(1);
+
+    text-align: center;
+    color: #f2b0b1;
+    font-weight: 100;
+    text-shadow: 0 0 10px #f2b0b1,
+                 0 0 20px #f2b0b1; 
+}
+
+.active-metais-trans:hover{
+    box-shadow: 0 0 5px #f2b0b1;
+}
+
+.active-semi-metais{
+    filter: blur(1);
+    text-align: center;
+    color: #6ec5bd;
+    font-weight: 100;
+    text-shadow: 0 0 10px #6ec5bd,
+                 0 0 20px #6ec5bd; 
+}
+.active-semi-metais:hover{
+    box-shadow: 0 0 5px #6ec5bd;
+}
+
+.active-outros-metais{
+    filter: blur(1);
+    text-align: center;
+    color: #a3c7d3;
+    font-weight: 100;
+    text-shadow: 0 0 10px #a3c7d3,
+                 0 0 20px #a3c7d3; 
+}
+.active-outros-metais:hover{
+    box-shadow: 0 0 5px #a3c7d3;
+}
+
+.active-lantanideos{
+    filter: blur(1);
+    text-align: center;
+    color: #97d7e1;
+    font-weight: 100;
+    text-shadow: 0 0 10px #97d7e1,
+                 0 0 20px #97d7e1; 
+}
+.active-lantanideos:hover{
+    box-shadow: 0 0 5px #97d7e1;
+}
+
+
+.active-halogenios{
+    filter: blur(1);
+    text-align: center;
+    color: #a9e0f4;
+    font-weight: 100;
+    text-shadow: 0 0 10px #a9e0f4,
+                 0 0 20px #a9e0f4; 
+}
+.active-halogenios:hover{
+    box-shadow: 0 0 5px #a9e0f4; 
+}
+.active-gases-nobres{
+    filter: blur(1);
+    text-align: center;
+    color: #67b1de;
+    font-weight: 100;
+    text-shadow: 0 0 10px #67b1de,
+                 0 0 20px #67b1de; 
+}
+.active-gases-nobres:hover{
+    box-shadow: 0 0 5px #67b1de; 
+}
+
+.active-actinidios{
+    filter: blur(1);
+    text-align: center;
+    color: #e4bdda;
+    font-weight: 100;
+    text-shadow: 0 0 10px #e4bdda,
+                 0 0 20px #e4bdda;  
+}
+.active-actinidios:hover{
+    box-shadow: 0 0 5px #e4bdda;
+}
